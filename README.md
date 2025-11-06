@@ -7,13 +7,7 @@ This repository contains a Next.js + Tailwind CSS implementation focusing on a d
 
 Status: Draft / v0 — single polished page.
 
----
-
-## Live demo
-(If deployed, add the URL here)
-- Live demo: https://your-deployment.example
-
----
+----
 
 ## Quick preview
 - Hero with bold visual, CTA
