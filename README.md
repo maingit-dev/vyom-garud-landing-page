@@ -1,6 +1,6 @@
 # VyomGarud landing page
 
-# VyomGarud — Landing Page (v0)
+# VyomGarud — Landing Page (v0) 
 
 A modern, responsive single-page landing site for VyomGarud — a UAV / drone systems company with a military-grade, professional identity.  
 This repository contains a Next.js + Tailwind CSS implementation focusing on a dark, confident, and precise aesthetic.
